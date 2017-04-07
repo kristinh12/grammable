@@ -59,3 +59,5 @@ end
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
 gem 'sprockets-rails', '>=2.3.2'
+
+gem 'simple_form'
