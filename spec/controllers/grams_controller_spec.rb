@@ -65,5 +65,16 @@ RSpec.describe GramsController, type: :controller do
       expect(response).to have_http_status(:not_found)
     end
   end
+
+  describe "grams#update action" do
+    it "should allow users to successfully update the gram" do
+    end
+
+    it "should return a 404 error if the gram is not found" do
+    end
+
+    it "should render the edit form with an http status of unprocessable entity" do
+    end
+  end
   
 end
