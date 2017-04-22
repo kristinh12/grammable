@@ -66,6 +66,7 @@ RSpec.describe GramsController, type: :controller do
     end
   end
 
+<<<<<<< HEAD
   describe "grams#edit action" do
     it "should successfully show the edit form is the gram is found" do
       gram = FactoryGirl.create(:gram)
