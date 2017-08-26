@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles.  Users are able to create posts featuring a photo, and leave comments.
 
-Things you may want to cover:
+Built With:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby on Rails
+* RSpec
+* Bootstrap
+* Devise
